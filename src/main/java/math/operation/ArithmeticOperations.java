@@ -6,4 +6,9 @@ public class ArithmeticOperations {
 	{
 		return a+b;
 	}
+	
+	public Integer subtract(Integer a, Integer b)
+	{
+		return a-b;
+	}
 }
