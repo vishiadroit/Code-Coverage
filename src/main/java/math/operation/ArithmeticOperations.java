@@ -11,4 +11,9 @@ public class ArithmeticOperations {
 	{
 		return a-b;
 	}
+	
+	public Integer multiply(Integer a, Integer b)
+	{
+		return a*b;
+	}
 }
